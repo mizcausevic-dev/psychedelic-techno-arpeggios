@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/psychedelic-techno-arpeggios-simple-synth-preview.mp3",
+  "preview_sha256": "7628c82a95cc0c2d98b98292e834b399ae2473942c132daef955715f39bb039d",
+  "source_midi_path": "midi/pta01-black-spiral/pta01-black-spiral-combined.mid",
+  "source_midi_sha256": "194be6b5cb80c7b97b43722f7f02ec5965aaf7b2c8a9f6f75a00cddcd28a97f6",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "pta01",
+    "start_seconds": 0,
+    "end_seconds": 57.313
+  },
+  "measurement": {
+    "sample_peak": 0.124017,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

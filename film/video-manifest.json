@@ -1,0 +1,26 @@
+{
+  "title": "Psychedelic Techno Arpeggios",
+  "study": "pta01",
+  "bpm": 134,
+  "source_audio": "preview/psychedelic-techno-arpeggios-simple-synth-preview.mp3",
+  "source_audio_sha256": "7628c82a95cc0c2d98b98292e834b399ae2473942c132daef955715f39bb039d",
+  "source_midi": "midi/pta01-black-spiral/pta01-black-spiral-combined.mid",
+  "source_midi_sha256": "194be6b5cb80c7b97b43722f7f02ec5965aaf7b2c8a9f6f75a00cddcd28a97f6",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "28b409df290fb90134c0a4941175f684ee3717f3a0f5a38b55072323a49a67b6",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "caacf7d8dca5c3a31b3b6d0224d07b3973134473f885d8eb25ffe38e77ca21b1",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "b6d4bfb20f2ede8c036eaeffa0c1394116999463616b919c433a3f3568f576f1",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

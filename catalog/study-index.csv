@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+pta01,Black Spiral,pack-local equal-tempered pitch collection,A,134,4/4,480,32,61440,midi/pta01-black-spiral/pta01-black-spiral-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pta02,Glass Orbit,pack-local equal-tempered pitch collection,C,134,4/4,480,32,61440,midi/pta02-glass-orbit/pta02-glass-orbit-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pta03,Green Point,pack-local equal-tempered pitch collection,D#,134,4/4,480,32,61440,midi/pta03-green-point/pta03-green-point-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pta04,Deep Rotation,pack-local equal-tempered pitch collection,A#,134,4/4,480,32,61440,midi/pta04-deep-rotation/pta04-deep-rotation-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

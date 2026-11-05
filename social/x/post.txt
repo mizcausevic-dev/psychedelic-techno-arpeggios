@@ -1,0 +1,3 @@
+DRAFT: Psychedelic Techno Arpeggios Studies is a four-study original MIDI release at 134 BPM. Simple-synthesis preview, not a master. #MIDI #Composition
+
+Count: 152 characters using Python len

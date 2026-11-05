@@ -1,0 +1,129 @@
+study_id,bar,start_tick,tonic,collection,chord_pitches,intent
+pta01,1,0,A,pack-local equal-tempered pitch collection,45 48 51,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,2,1920,A,pack-local equal-tempered pitch collection,45 48 51,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,3,3840,A,pack-local equal-tempered pitch collection,45 48 51,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,4,5760,A,pack-local equal-tempered pitch collection,45 48 51,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,5,7680,A,pack-local equal-tempered pitch collection,46 49 52,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,6,9600,A,pack-local equal-tempered pitch collection,46 49 52,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,7,11520,A,pack-local equal-tempered pitch collection,46 49 52,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,8,13440,A,pack-local equal-tempered pitch collection,46 49 52,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,9,15360,A,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,10,17280,A,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,11,19200,A,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,12,21120,A,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,13,23040,A,pack-local equal-tempered pitch collection,48 51 54,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,14,24960,A,pack-local equal-tempered pitch collection,48 51 54,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,15,26880,A,pack-local equal-tempered pitch collection,48 51 54,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,16,28800,A,pack-local equal-tempered pitch collection,48 51 54,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,17,30720,A,pack-local equal-tempered pitch collection,45 48 51,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,18,32640,A,pack-local equal-tempered pitch collection,45 48 51,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,19,34560,A,pack-local equal-tempered pitch collection,45 48 51,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,20,36480,A,pack-local equal-tempered pitch collection,45 48 51,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,21,38400,A,pack-local equal-tempered pitch collection,46 49 52,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,22,40320,A,pack-local equal-tempered pitch collection,46 49 52,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,23,42240,A,pack-local equal-tempered pitch collection,46 49 52,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,24,44160,A,pack-local equal-tempered pitch collection,46 49 52,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,25,46080,A,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,26,48000,A,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,27,49920,A,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,28,51840,A,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,29,53760,A,pack-local equal-tempered pitch collection,48 51 54,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,30,55680,A,pack-local equal-tempered pitch collection,48 51 54,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,31,57600,A,pack-local equal-tempered pitch collection,48 51 54,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta01,32,59520,A,pack-local equal-tempered pitch collection,48 51 54,Dark repeating synth motifs and tense low figures. Initial cell establishes the material.
+pta02,1,0,C,pack-local equal-tempered pitch collection,49 52 55,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,2,1920,C,pack-local equal-tempered pitch collection,49 52 55,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,3,3840,C,pack-local equal-tempered pitch collection,49 52 55,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,4,5760,C,pack-local equal-tempered pitch collection,49 52 55,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,5,7680,C,pack-local equal-tempered pitch collection,54 57 60,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,6,9600,C,pack-local equal-tempered pitch collection,54 57 60,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,7,11520,C,pack-local equal-tempered pitch collection,54 57 60,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,8,13440,C,pack-local equal-tempered pitch collection,54 57 60,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,9,15360,C,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,10,17280,C,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,11,19200,C,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,12,21120,C,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,13,23040,C,pack-local equal-tempered pitch collection,48 51 54,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,14,24960,C,pack-local equal-tempered pitch collection,48 51 54,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,15,26880,C,pack-local equal-tempered pitch collection,48 51 54,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,16,28800,C,pack-local equal-tempered pitch collection,48 51 54,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,17,30720,C,pack-local equal-tempered pitch collection,49 52 55,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,18,32640,C,pack-local equal-tempered pitch collection,49 52 55,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,19,34560,C,pack-local equal-tempered pitch collection,49 52 55,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,20,36480,C,pack-local equal-tempered pitch collection,49 52 55,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,21,38400,C,pack-local equal-tempered pitch collection,54 57 60,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,22,40320,C,pack-local equal-tempered pitch collection,54 57 60,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,23,42240,C,pack-local equal-tempered pitch collection,54 57 60,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,24,44160,C,pack-local equal-tempered pitch collection,54 57 60,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,25,46080,C,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,26,48000,C,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,27,49920,C,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,28,51840,C,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,29,53760,C,pack-local equal-tempered pitch collection,48 51 54,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,30,55680,C,pack-local equal-tempered pitch collection,48 51 54,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,31,57600,C,pack-local equal-tempered pitch collection,48 51 54,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta02,32,59520,C,pack-local equal-tempered pitch collection,48 51 54,Dark repeating synth motifs and tense low figures. Statement introduces a different contour.
+pta03,1,0,D#,pack-local equal-tempered pitch collection,57 60 63,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,2,1920,D#,pack-local equal-tempered pitch collection,57 60 63,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,3,3840,D#,pack-local equal-tempered pitch collection,57 60 63,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,4,5760,D#,pack-local equal-tempered pitch collection,57 60 63,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,5,7680,D#,pack-local equal-tempered pitch collection,54 57 60,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,6,9600,D#,pack-local equal-tempered pitch collection,54 57 60,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,7,11520,D#,pack-local equal-tempered pitch collection,54 57 60,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,8,13440,D#,pack-local equal-tempered pitch collection,54 57 60,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,9,15360,D#,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,10,17280,D#,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,11,19200,D#,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,12,21120,D#,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,13,23040,D#,pack-local equal-tempered pitch collection,52 55 58,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,14,24960,D#,pack-local equal-tempered pitch collection,52 55 58,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,15,26880,D#,pack-local equal-tempered pitch collection,52 55 58,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,16,28800,D#,pack-local equal-tempered pitch collection,52 55 58,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,17,30720,D#,pack-local equal-tempered pitch collection,57 60 63,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,18,32640,D#,pack-local equal-tempered pitch collection,57 60 63,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,19,34560,D#,pack-local equal-tempered pitch collection,57 60 63,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,20,36480,D#,pack-local equal-tempered pitch collection,57 60 63,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,21,38400,D#,pack-local equal-tempered pitch collection,54 57 60,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,22,40320,D#,pack-local equal-tempered pitch collection,54 57 60,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,23,42240,D#,pack-local equal-tempered pitch collection,54 57 60,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,24,44160,D#,pack-local equal-tempered pitch collection,54 57 60,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,25,46080,D#,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,26,48000,D#,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,27,49920,D#,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,28,51840,D#,pack-local equal-tempered pitch collection,51 54 57,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,29,53760,D#,pack-local equal-tempered pitch collection,52 55 58,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,30,55680,D#,pack-local equal-tempered pitch collection,52 55 58,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,31,57600,D#,pack-local equal-tempered pitch collection,52 55 58,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta03,32,59520,D#,pack-local equal-tempered pitch collection,52 55 58,Dark repeating synth motifs and tense low figures. Contrast moves the accent map.
+pta04,1,0,A#,pack-local equal-tempered pitch collection,49 52 55,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,2,1920,A#,pack-local equal-tempered pitch collection,49 52 55,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,3,3840,A#,pack-local equal-tempered pitch collection,49 52 55,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,4,5760,A#,pack-local equal-tempered pitch collection,49 52 55,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,5,7680,A#,pack-local equal-tempered pitch collection,46 49 52,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,6,9600,A#,pack-local equal-tempered pitch collection,46 49 52,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,7,11520,A#,pack-local equal-tempered pitch collection,46 49 52,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,8,13440,A#,pack-local equal-tempered pitch collection,46 49 52,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,9,15360,A#,pack-local equal-tempered pitch collection,47 50 53,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,10,17280,A#,pack-local equal-tempered pitch collection,47 50 53,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,11,19200,A#,pack-local equal-tempered pitch collection,47 50 53,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,12,21120,A#,pack-local equal-tempered pitch collection,47 50 53,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,13,23040,A#,pack-local equal-tempered pitch collection,52 55 58,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,14,24960,A#,pack-local equal-tempered pitch collection,52 55 58,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,15,26880,A#,pack-local equal-tempered pitch collection,52 55 58,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,16,28800,A#,pack-local equal-tempered pitch collection,52 55 58,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,17,30720,A#,pack-local equal-tempered pitch collection,49 52 55,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,18,32640,A#,pack-local equal-tempered pitch collection,49 52 55,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,19,34560,A#,pack-local equal-tempered pitch collection,49 52 55,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,20,36480,A#,pack-local equal-tempered pitch collection,49 52 55,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,21,38400,A#,pack-local equal-tempered pitch collection,46 49 52,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,22,40320,A#,pack-local equal-tempered pitch collection,46 49 52,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,23,42240,A#,pack-local equal-tempered pitch collection,46 49 52,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,24,44160,A#,pack-local equal-tempered pitch collection,46 49 52,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,25,46080,A#,pack-local equal-tempered pitch collection,47 50 53,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,26,48000,A#,pack-local equal-tempered pitch collection,47 50 53,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,27,49920,A#,pack-local equal-tempered pitch collection,47 50 53,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,28,51840,A#,pack-local equal-tempered pitch collection,47 50 53,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,29,53760,A#,pack-local equal-tempered pitch collection,52 55 58,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,30,55680,A#,pack-local equal-tempered pitch collection,52 55 58,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,31,57600,A#,pack-local equal-tempered pitch collection,52 55 58,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
+pta04,32,59520,A#,pack-local equal-tempered pitch collection,52 55 58,Dark repeating synth motifs and tense low figures. Return keeps the identity while changing one placement.
