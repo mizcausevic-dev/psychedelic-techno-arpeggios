@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/psychedelic-techno-arpeggios-midi.zip",
-      "bytes": 30649,
-      "sha256": "df9138a285c5d6c1d20ef6239e7ba949693f5ef38af7d61b0ca8b0262554467c"
+      "bytes": 32659,
+      "sha256": "9dece49026d0b32afb5bbc010993fc96e544a3912b0d30c770456d5880729389"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9551,
-      "sha256": "f7f70e1fd2dc6fa0de3f00bf8042e3bd06342b57fd86cb0a1aac6452f93e8199"
+      "bytes": 9741,
+      "sha256": "9e93d999b33c867a585dec3df965be27d5ac7f7d3457f61dd8ea788449a7615d"
     },
     {
       "path": "midi/pta01-black-spiral/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "eea72a90caa7959a9191602dddf1874a96cf68b7aee987802070c522c80ad225"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1146,
       "sha256": "a1e27c4051a93940f0dd9e56c9e9f17272f86aea197d7bd822e5288fe0a59093"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3927,
-      "sha256": "2ef73f6fab34764ffc3583bda1af7bb5b7c6fa2481f970dc2764f4f1c1ddc20a"
+      "bytes": 4042,
+      "sha256": "ef13c6107eeacb08e7965ec7eb8be5d7c893759f838a74b22f968c865d1490c4"
     },
     {
       "path": "social/instagram/caption.txt",
